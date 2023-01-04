@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @SADIAMEHMOODSATTI
+- I am PhD in environmental microbiology
+- my area of expertise is bioremediation (plastics), microbial ecology and microbiome
 - 👀 I’m interested in learning data science and bioinformatics 
 - 🌱 I’m currently learning data science and bioinformatics
 - 💞️ I’m looking to collaborate on microbial ecology and environmental microbiology
